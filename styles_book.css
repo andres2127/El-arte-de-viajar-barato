@@ -74,4 +74,5 @@ section {
 }
 .chapter{
     border: 1cm;
+    display: block;
 }
